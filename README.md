@@ -1,2 +1,4 @@
 # algoritimo
-todos os códigos da aula de lógica de programação
+Itodos os códigos da aula de lógica de programação
+
+pasta contendo todos os arquivos da pasta de lógica

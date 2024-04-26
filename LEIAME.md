@@ -1,0 +1,1 @@
+A pasta algoritimos contém diversos "branchs" (ramos), onde colocamos os arquivos e códigos das aulas realizadas.
